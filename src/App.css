@@ -54,3 +54,24 @@ body,
   padding-top: 10px;
   padding-right: 10px;
 }
+
+.hero-container {
+  border-bottom: 1px solid #1a1a1a;
+  padding-bottom: 1rem;
+  margin-bottom: 8.75rem;
+}
+
+.hero-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.text-section {
+  width: 100%;
+  text-align: center;
+}
+
+.name {
+  font-size: 50px;
+  font-weight: 200;
+}
