@@ -7,11 +7,9 @@ import Hero from "./components/Hero";
 function App() {
   return (
     <div className="App">
-      
       <Navbar />
-      <Hero/>
+      <Hero />
       <div className="background-gradient"></div>
-      {/* <div className="container"></div> */}
     </div>
   );
 }
