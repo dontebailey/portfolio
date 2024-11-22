@@ -97,24 +97,8 @@ body,
   border-radius: 25px;
 }
 
-/* @media screen and (max-width: 1600px) {
-  .profile-image {
-    margin-left: 200px;
-  }
-
-  .text-section {
-    margin-left: 100px;
-  }
+.about-header {
+  display: flex;
+  justify-content: center;
+  font-weight: 100;
 }
-
-@media screen and (max-width: 1320px) {
-  .profile-image {
-    margin-left: 100px;
-  }
-}
-
-@media screen and (max-width: 1150px) {
-  .profile-image {
-    margin-top: 30px;
-  }
-} */
