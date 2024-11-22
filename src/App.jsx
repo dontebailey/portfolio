@@ -7,11 +7,10 @@ import About from "./components/About";
 
 function App() {
   return (
-    <div className="App">
+    <div className="background-gradient">
       <Navbar />
       <Hero />
       <About />
-      <div className="background-gradient"></div>
     </div>
   );
 }
