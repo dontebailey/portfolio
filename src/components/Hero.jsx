@@ -9,10 +9,7 @@ function Hero() {
       </div>
 
       <div className="image-section">
-        <img
-          src="src/assets/donteBaileyProfile.jpg"
-          className="profile-image"
-        ></img>
+        <img src="/donteBaileyProfile.jpg" className="profile-image"></img>
       </div>
     </div>
   );
