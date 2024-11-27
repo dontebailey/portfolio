@@ -96,8 +96,33 @@ body,
   border-radius: 25px;
 }
 
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
 .about-header {
   display: flex;
   justify-content: center;
   font-weight: 100;
+}
+
+.about-image-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.about-image {
+  max-width: 600px;
+  max-height: 600px;
+  border-radius: 25px;
+}
+
+.about {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 500px;
 }
