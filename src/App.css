@@ -165,3 +165,22 @@ body,
   font-size: 60px;
   color: cyan;
 }
+
+.javascript-icon {
+  font-size: 60px;
+  color: yellow;
+}
+
+.python-icon {
+  font-size: 60px;
+}
+
+.html-icon {
+  font-size: 60px;
+  color: orangered;
+}
+
+.css-icon {
+  font-size: 60px;
+  color: lightskyblue;
+}
