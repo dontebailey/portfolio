@@ -204,3 +204,20 @@ body,
   font-weight: 100;
   padding-top: 50px;
 }
+
+.experience {
+  display: flex;
+}
+
+.year-section {
+}
+
+.year {
+}
+
+.role-section {
+  display: flex;
+}
+
+.role {
+}
