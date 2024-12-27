@@ -146,6 +146,8 @@ body,
   flex-wrap: wrap;
   flex-direction: column;
   border-bottom: 1px solid #424040;
+  width: 100%;
+  
 }
 
 .technologies-header {
@@ -163,6 +165,7 @@ body,
   gap: 15px;
   padding: 20px 20px 50px 20px;
   width: 100%;
+  box-sizing: border-box;
 }
 
 .widget-border {
