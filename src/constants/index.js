@@ -14,8 +14,8 @@ export const EXPERIENCES = [
     year: "Oct 2022 - Nov 2022",
     role: "Software Engineer Intern",
     company: "4SharpCorners",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["AngularJS", "CSS", "HTML", "MySQL"],
+    description: `Developed and maintained front-end and back-end code to analyze historical sports card pricing data, enabling informed pricing decisions. Collaborated with management to ensure software aligns with business needs. Experienced in Agile methodologies and tools like Bitbucket and Kanban.`,
+    technologies: ["CSS", "HTML", "MySQL"],
   },
 ];
 
