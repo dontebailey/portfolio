@@ -1,0 +1,28 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-header {
+  text-align: center;
+  color: white;
+  font-weight: 400;
+}
+
+.location {
+  text-align: center;
+  color: white;
+  font-weight: 300;
+}
+
+.phone-number {
+  text-align: center;
+  color: white;
+  font-weight: 300;
+}
+
+.email {
+  text-align: center;
+  color: white;
+  font-weight: 300;
+}
